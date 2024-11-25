@@ -1,5 +1,8 @@
-pandas
-numpy
-matplotlib
-tensorflow
-streamlit
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.0
+tensorflow==2.17.1
+keras==3.5.0
+streamlit==1.40.1
+
+# 3.10.12
